@@ -1,0 +1,41 @@
+logo için:
+Bir sanat galerisi için logo tasarımı yapacaksın. Tasarım şık ve zarif olmalı. Renklerde beyaz, bej, açık mavi ve siyah kullanabilirsin.
+göseller için:
+Tarihi bir binada gezen birini oluştur.
+Dağ ve nehirleri olan bir manzara resmi oluştur.
+İstanbul'da vapur bekleyen insanlar ve boğaz manzarası oluştur.
+Sanat galerisi gezen insanlar oluştur.
+
+resimlere isim:
+Dağ resmine bir isim öner.
+Tarihi binada gezen bir adamın olduğu resme isim ver.
+İstanbul'da vapur bekleyen insanlar ve boğaz manzarası olan resme isim ver.
+
+html dosyaları için:
+Bir sanat galerisi için web sitesi oluşturacaksın. Galerinin adı Elysian Art Gallery. HTML tabanlı bir site oluşturmalısın.
+ 
+Ana Sayfa:
+
+Header: Ana başlık ve gezinme menüsü için bir header kullanılmalıdır. Logoyu ekleyebileceğim bir kısım olmalı.
+
+Main Section: Ana sayfanın odak noktası, portföy öğeleri veya galeri öğeleri için bir bölüm olmalıdır. Bu bölümde, görsel içeriklerle birlikte, kullanıcının işleri hakkında kısa açıklamalar veya başlıklar yer almalı.
+
+Footer: İletişim bilgileri ve sosyal medya bağlantıları gibi ek bilgiler içeren bir footer kullanılmalıdır.
+
+Portföy Sayfası:
+
+Header ve Footer: Ana sayfada olduğu gibi, bir header ve footer bulunmalıdır.
+
+Main Section: Portföy öğelerinin listelendiği bir ana bölüm bulunmalıdır. Her bir öğe, görsel içeriklerle birlikte, öğenin adı, açıklaması ve ön izlemesi gibi bilgiler içermelidir.
+
+Semantik Etiketler: Portföy öğeleri, <article> etiketi içinde bulunmalıdır.
+
+Galeri Sayfası:
+
+Header ve Footer: Ana sayfada olduğu gibi, bir header ve footer bulunmalıdır.
+
+Main Section: Galeri öğelerinin grid veya slayt gösterisi şeklinde sunulduğu bir ana bölüm bulunmalıdır. Her bir öğe, görsel içeriklerle birlikte, öğenin adı veya açıklaması gibi bilgiler içerebilir. En az 3 tane görsel içerik eklenmeli.
+
+Semantik Etiketler: Galeri öğeleri, <figure> ve <figcaption> gibi semantik etiketler kullanılarak düzenlenmelidir.
+
+Düzenlemelerle ilgili css dosyasını da yaz.
